@@ -3,8 +3,9 @@
 Maxwell Hosler
 
 Derek Hinojosa
- - List
- Major: Computer Science
+ - Classification: Junior 
+ - Major: Computer Science
+ 
 
 Corey Ulman
 
