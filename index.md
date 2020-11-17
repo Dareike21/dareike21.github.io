@@ -4,7 +4,7 @@ Open Annote is a GUI application that...
 
 ### Application Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(This website uses markdown btw)
 
 ```markdown
 Syntax highlighted code block
