@@ -1,13 +1,13 @@
 ## Group Members
 
-Maxwell Hosler
+- Maxwell Hosler
 
-Derek Hinojosa
+- Derek Hinojosa
  - Classification: Junior 
  - Major: Computer Science
  
 
-Corey Ulman
+- Corey Ulman
 
 ## Open Annote
 
