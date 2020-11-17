@@ -1,10 +1,23 @@
+## Group Members
+
+Maxwell Hosler
+
+Derek Hinojosa
+ - List
+ Major: Computer Science
+
+Corey Ulman
+
 ## Open Annote
 
 Open Annote is a GUI application that...
 
-### Application Tools
+### Application Features
 
-(This website uses markdown btw)
+
+### Design Features
+
+<!---(This website uses markdown btw)
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +36,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+--->
 
 ### Challenges
 
