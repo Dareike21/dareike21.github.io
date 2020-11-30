@@ -1,4 +1,4 @@
-<link rel="shortcut icon" src="assets/logo_large.png" type="image/x-icon" />
+<link rel="shortcut icon" type="image/x-icon" href="logo_large.ico">
 ### Group Members
 
 - Derek Hinojosa
