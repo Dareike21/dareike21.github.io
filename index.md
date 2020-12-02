@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="logo_large.ico">
 ### Group Members
 
 - Derek Hinojosa
